@@ -23,6 +23,10 @@ The implementation follows a modular design:
 
 4. **Tensor Transformation**: The `transform_tensor` function performs the actual tensor operations based on the parsed pattern.
 
+## Proposed Approach
+![image](https://github.com/user-attachments/assets/cdc87c86-52e1-4efc-bed0-e6fd9226353b)
+
+
 ## Usage Examples
 
 ```python
